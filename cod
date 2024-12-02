@@ -1,0 +1,14 @@
+sweetapp/
+├── README.md          # Descrição geral do projeto
+├── backend/           # Código backend em Python/Flask
+│   ├── app.py
+│   ├── models.py
+│   └── requirements.txt
+├── frontend/          # Código frontend em HTML/CSS/JS
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── database/          # Scripts de banco de dados
+│   └── schema.sql
+└── docs/              # Documentação do projeto
+    └── wireframes.pdf
